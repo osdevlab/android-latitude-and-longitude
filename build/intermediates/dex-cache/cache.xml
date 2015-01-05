@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/pre-dexed/debug/classes-e5a68a66b44186aa699e2aa474e5bffbfcc0c031.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-4c9a65007239f7b9192d3448962f5525c1a46d70.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/LocationApp/app/build/intermediates/pre-dexed/debug/classes-4df42d5cdcc64c2ce12659c6d5b725d24bf838f8.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-92d0b6457b70c0fd69862c12f9557b4ae89bf240.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f787a5557cc083408291aba0f0703a4964cf9c5b.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/classes-ea9a127107825903a4434bef3a1d75bfc7f59660.jar" />
+    </item>
+    <item
+        jar="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/classes-d94a83ca39a5666fdf58c3dd111bc2550aaa4b1b.jar" />
+    </item>
+
+</items>
